@@ -3,7 +3,7 @@
   "version": "0.0.7",
   "description": "Embed Youtube Videos in Gatsby via Markdown",
   "main": "index.js",
-  "author": "Marvin Mieth <ntwcklng@gmail.com>",
+  "author": "aomcloudenterprise <aomcloudenterprse@outlook.com>",
   "license": "MIT",
   "keywords": ["gatsby", "gatsby-plugin", "remark"],
   "dependencies": {
@@ -19,9 +19,9 @@
     "prepublish": "cross-env NODE_ENV=production npm run build",
     "watch": "babel -w src --out-dir . --ignore __tests__"
   },
-  "homepage": "https://github.com/ntwcklng/gatsby-remark-embed-youtube#readme",
+  "homepage": "https://github.com/aomcloudenterprise /gatsby-remark-embed-youtube#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ntwcklng/gatsby-remark-embed-youtube.git"
+    "url": "git+https://github.com/aomcloudenterprise /gatsby-remark-embed-youtube.git"
   }
 }
